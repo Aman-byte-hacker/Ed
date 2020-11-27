@@ -1,6 +1,6 @@
 This is a tool for Encrypting and decrypting the files.
 
-first clone it from this link: git clone https://github.com/Aman-byte-hacker/Ed
+first clone it from this link: git clone https://github.com/Aman-byte-hacker/Ed.git
 
 then come to Ed folder by cd Ed
 
